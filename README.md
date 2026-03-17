@@ -26,8 +26,10 @@
 
 > *(Вставь сюда свои изображения)*  
 ```
-![screenshot](docs/screenshot1.png)
-![screenshot](docs/screenshot2.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7df5f0d5-9f67-49ce-a194-d6d9a7c42c2f" />
+
+<img width="1914" height="996" alt="image" src="https://github.com/user-attachments/assets/a457628d-5421-41b8-b29b-75ef75076e6a" />
+
 ```
 
 ---
